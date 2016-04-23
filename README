@@ -1,0 +1,15 @@
+ANDES
+=====
+ANalytics Database Encrypted System
+-----------------------------------
+
+This project is meant to be an educational experiment to learn the insides of
+a in memory persistent database. Security features are built into the system
+from the ground up since I believe no data should ever sit unencrypted as
+nearly all big data has the capability to hurt the users if released.
+
+DUAL LICENSE
+============
+
+Released under dual licenses: Commercial and GPLv3. If you don't know otherwise you are bound to GPLv3 terms.
+Please see LICENSE file for more information.
